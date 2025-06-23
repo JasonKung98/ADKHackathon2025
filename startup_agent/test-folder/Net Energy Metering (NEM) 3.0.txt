@@ -1,0 +1,67 @@
+Net Energy Metering (NEM) 3.0
+By Sustainable Energy Development Authority
+(SEDA) Malaysia
+Source: https://www.seda.gov.my/reportal/nem/
+
+1. WHAT IS THE CONCEPT OF NET ENERGY METERING (NEM) 3.0?
+The Government has introduced the Net Energy Metering (NEM) 3.0 programme to provide opportunity for more users to install the solar photovoltaic (PV) systems on the roofs of their respective buildings for electricity bill reduction. The NEM 3.0 programme involves three initiatives:
+
+1) NEM Rakyat programme
+2) NEM GoMEn programme (Government Ministries and Entities)
+3) NOVA (Net Offset Virtual Aggregation) programme
+
+2. WHEN WILL THE NEW NEM 3.0 BE IMPLEMENTED AND THE AMOUNT OF QUOTAS TO BE OFFERED?
+NEM3.0 offers a quota of 2500 megawatts (MW) from 2021 to 2025. 
+Programme	Quota offered (MW)	Implementation period
+NEM Rakyat	700	1st February 2021 – 30th June 2025
+NEM GoMEn	100	1st February 2021 – 30th June 2025
+NOVA	1700	1st April 2021 – 30th June 2025
+
+3. HOW CAN I APPLY FOR NEM RAKYAT, NEM GOMEN AND NOVA?
+Applications for NEM Rakyat, NEM GoMEn and NOVA programmes can be made via SEDA’s eNEM system https://services.seda.gov.my/nem/home . The NEM applicant shall appoint SEDA’s Registered PV Service Provider (RPVSP) (http://www.seda.gov.my/directory/registered-pv-service-provider-directory/) for NEM application submission.
+
+4. AFTER OBTAINING THE NEM APPROVAL, WHEN SHALL I START INSTALLING THE PV SYSTEM?
+The Applicant should commence to install the solar PV Installation within three (3) months from the date of the NEM approval, failing which, the approval shall be cancelled. Any processing fee paid shall not be refunded.
+
+5. WHAT TYPES OF INCENTIVES ARE AVAILABLE FOR NEM CONSUMERS?
+At the moment there are fiscal incentives offered to eligible companies in the form of Green Technology Incentive (https://www.mida.gov.my/forms-and-guidelines/tax-incentives-for-green-industry/) by Malaysia Investment Development Authority (MIDA).
+
+6. WHAT ARE THE TYPES OF METER REQUIRED FOR NEM RAKYAT, NEM GOMEN AND NOVA?
+Two types of meter are required as below:
+
+The Bi-directional Meter shall be able to measure and record the electricity supplied by the Distribution Licensee to the NOVA Consumer and the Energy exported by the NOVA Consumer to the Supply System. The Bi-directional Meter shall be supplied and installed by the Distribution Licensee.
+The PV Meter for measuring the Energy produced by the solar PV installation shall be installed and maintained by the NOVA Consumer.
+
+7. IF I AM PLANNING TO INSTALL SOLAR PV SYSTEM FOR SELF-CONSUMPTION (SELCO) AND HAVE TAKEN THE NECESSARY STEPS TO ENSURE NO REVERSE FLOW OR ENERGY EXPORTED TO THE GRID, DO I NEED TO APPLY FOR NEM?
+There is no need to apply for NEM. However, for PV systems with capacity above 72 kW, a generating license (private) from ST is required and subject to the relevant rules under the Electricity Supply Act (ESA). For more information please refer to the Guidelines on the Connection of Solar Photovoltaic Installation for Self-Consumption issued by ST.
+
+8. HOW IS THE CONNECTION BETWEEN THE CONSUMER'S SOLAR PV SYSTEM AND TNB DISTRIBUTION SYSTEM?
+The connection to TNB network shall be done only through indirect connection, i.e. within the owner’s internal distribution board only.
+
+9. IS THERE ANY TENURE IN THE NEM CONTRACT BETWEEN TNB AND THE NEM CONSUMER?
+The NEM tenure will be for a period of ten (10) years on commencement of the NEM Contract. After the ten (10) years period,the solar PV Installation shall be strictly for self-consumption in the Premise where the solar PV installation is installed, and no offset and roll-over will be allowed for any excess Energy exported.
+
+10. IS THE ST GENERATING LICENSE REQUIRED FOR APPLICATION UNDER NEM RAKYAT, NEM GOMEN AND NOVA?
+Only applicable for solar PV system installation above  24kW for single phase and above 72kW for three phase.
+
+ 
+
+NEM GoMEn
+
+Only applicable for solar PV system installation above  24kW for single phase and above 72kW for three phase.
+
+Any person exempted from the licensing requirements under section 9 of the Act pursuant to the Notification on Exemption Under Section 54 [P.U.(B) 342/2008] shall complete a form as attached in Attachment 1 (found in the Guidelines for NEM 3.0) and return the same to the Commission no later than twenty-eight (28) days after it is notified of its approval as a NEM GoMEn Consumer by the Distribution Licensee.
+
+ 
+
+NOVA
+
+Applicants are to note and comply to the licensing requirements stipulated under the Act and its subsidiary legislations. The Applicant shall apply for a licence from the Commission no later than twenty-eight (28) days after being notified by SEDA Malaysia that the application has been approved.
+
+Any person exempted from the licensing requirements under section 9 of the Act pursuant to the Notification On Exemption Under Section 54 [P.U.(b)342/2008] shall complete the form attached Attachment 1 (found in the Guidelines for NOVA) and submit the same to the Commission no later than twenty eight (28) days before the Commencement Date.
+
+11. HOW DO I CHECK THE LIST OF ELECTRICAL COMPETENT PERSON (E.G.: WIREMAN) REGISTERED WITH THE ENERGY COMMISSION?
+You can check the list of electrical competent person at Energy Commission’s website at https://ecos.st.gov.my/ms/senarai-orang-kompeten-berdaftar-elektrik-
+
+12. I AM AN INVESTOR, CAN I CLAIM FOR ENVIRONMENT ATTRIBUTES?
+No it is solely for the benefit of consumers (NEM Rakyat / GoMEn / NOVA Consumers)

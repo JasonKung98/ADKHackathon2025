@@ -1,0 +1,18 @@
+sources:
+  my-bigquery-source:
+    kind: bigquery
+    project: genairoadshow-1dec2024
+    location: us
+tools:
+  get-processing-orders:
+    kind: bigquery-sql
+    source: my-bigquery-source
+    description: Check for any orders that are still being processed.
+    parameters:
+      - name: status
+        type: string
+        description: Order status such as Processing, Shipped, Delivered, Completed, Returned and Cancelled.
+    statement: SELECT order_id, user_id, product_id, order_quantity, created_at FROM `genairoadshow-1dec2024.solar_records.order_items` WHERE status = 'Processing'; 
+toolsets:
+  my-toolset:
+    - get-processing-orders

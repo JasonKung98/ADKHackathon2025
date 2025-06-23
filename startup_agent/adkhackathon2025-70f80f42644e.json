@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "adkhackathon2025",
+  "private_key_id": "70f80f42644e122275b493539b33a9b2fcccc94b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsJ0cOufa7DuGe\nlbXyCTPIfKB2SO5QG9ORt/C56SNSPXFWj8EH9VgZA1IYhNFFKsa38pjg5hrUKjpj\nJOtzMl8C7oTIbSurVyGJroXe2GRIx+ZD100V4Pb22LoYYt3AYBDxcBktySv4FOhE\njgNl3cKOaVGYTe19IsoiFwM1O77ThxE+y2Y5s+iAmGGm6DVuV8Grof2EddDZoZyK\noo9OWDFHjiaZIpUPT6XfAOV7gDKqozYVotO9OXX4+6k35bab9O1tal2zRV2MXADp\nkKw1WtCmZycOGgl9Eah+uTHumBjkNxu9SSBwPuWvNw1mt8hENocoHfLlGkZhDZYw\nla0fUk+XAgMBAAECggEAGOEgdtg3ushcE8GRDCFVD8u1ehC/7renyAPZfDSoMHth\nq+10ODrsX6I+bW/cvk0951ZLLfKAJBcY1KYomhfV87CeU6FQxvnkgiVdXDdvBU3u\nH/qYV/Q+AI6fuH79/s0AK/eT54N4uue0+rf9eqds3mURIBshqJvYMNQ81choF8/A\nvbUSt/fsVWuqWYyS1GoXphpfxU3tyDcfdFtN7eQBwRNIqO0duf6kbThkSGXg0Y7t\nnYcz73SIWJV01+dxxVsutjkqejYAnMQHQzfViFb4vqjxJ7ag/iGMxh4lK9I19BXf\ndObVxwyoEFbHS+oE8BklsXB6rvVV/OMPWajuU7evVQKBgQD3VKZi50utpfQByXmZ\nMFkEXzHk3/+cuSriXRj5ca+m5t53srmvoCek+/U3Evmg9KE0Bh31r32XDSyBgE0Y\nA3yyVxyHrYwng07hDBVFtYGOweI/IRIYA3FJzXwL5bysA1XJUpM+RhnmKIrznuW3\nHgzQ5BHIytPHxqnBHopBbeGpKwKBgQD0blT5pKhmQkEqChNxGmwdc4Q3IcHITP9C\nDFy61tuu6g5erPLDK7L0FPCYohnGxVlDUXe5kFI5+oSFdCRWtcyr+OzCorDbUN1e\nLtNzGWdtUuQqEOSLnTzSKcxxBk2c9OiIKy+xtXu8eNRqzkdijECFsP4gTEq5LUnQ\nVcF9NOWlRQKBgByG5/YKZYEu3fkCywKvP+UwMaoLaAkkllyrjkDfKvpeMJSvyZkH\nKOtvoDXs+1vkO1+rwPLgfeTZQSPir4GwjUZoo8LGcp7wFz3/zchPihT0KetMHjEk\n3IE9sSwSIHPaop9o5dDN9xjD3lsBHc/EKIhDdgWp10l4kYXTxvCLAvcnAoGBAPOa\nXh/rBVXcpBskrZmkLqnvbY6QmxNoAWGu9l/TMGATrjyW+t6eV5xAnkRQEYZzOnIH\n6F1Mw1Y7IQXr6Sdtykx+KmAUSlRZNDXgTyY/5D8lRHXUHiIyk+IUfEcMdB+ASZsk\nB0WBzI7akUDc0nIZu1hCPBKuVi5VP2JdhRemt1RNAoGAXjTAvkyJHtbEx1DxO2mr\n1UsLoLmYzg2+C2blReyzpWaA58XfIX2rOIJbAt6XxBf5yvQOxG3PPFDz0UoZf7vg\nXfXuCZA8XzONndYMDst5oqaLZ/9WlseNVKDt0OaSnuBKMnLJbZXEKIR523iOSR2R\nkr2lNuTcbSISxUAGMibC7vw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adk-orchestrator-agent@adkhackathon2025.iam.gserviceaccount.com",
+  "client_id": "117067610788926109064",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adk-orchestrator-agent%40adkhackathon2025.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
